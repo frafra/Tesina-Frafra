@@ -1,0 +1,59 @@
+body {
+	margin: 10px;
+	text-align: justify;
+}
+
+h1 {
+	background-color: #f90;
+	color: #fff;
+	font-size: 18pt;
+	font-weight: bold;
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+}
+
+h2 {
+	background-color: #fc6;
+	font-size: 14pt;
+	font-weight: normal;
+	text-align: center;
+	margin: 4px;
+	padding: 5px;
+}
+
+h3 {
+	background-color: #fc6;
+	font-size: 12pt;
+	font-weight: normal;
+	padding: 2px;
+	margin: 10px;
+	padding-left: 10px;
+}
+
+p {
+	padding: 2px;
+	margin: 10px;
+	font-size: 12pt;
+}
+
+.paragrafo {
+	clear: both;
+}
+
+.quotazione {
+	padding: 5px;
+	margin: 20px;
+	text-align: center;
+	font-style: italic;
+}
+
+img.sinistra {
+	float: left;
+	margin: 0px 10px 10px 0px;
+}
+
+img.destra {
+	float: right;
+	margin: 0px 0px 10px 10px;
+}
